@@ -5,8 +5,8 @@
  * @package        	CodeIgniter
  * @subpackage    	Libraries
  * @category    	Libraries
- * @porting author	dwi.setiyadi@gmail.com
- * @original author	http://phpqrcode.sourceforge.net/
+ * @porting author	asifraiganj@gmail.com
+ * @original author	asif ansari
  * 
  * @version		1.0
  */
